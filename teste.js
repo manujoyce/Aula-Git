@@ -1,1 +1,4 @@
-console.log();
+console.log()
+let numero = 20;
+
+
